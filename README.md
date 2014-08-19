@@ -1,8 +1,8 @@
 Mods för KSP Multiplayer Server
 ========
-Alla mods som används just nu på servern hamnar här.
+Alla mods som just nu används på servern hamnar här.
 
-Instruktioner:
+<b>Instruktioner:<b>
 
 Tryck på "Download ZIP" till höger och packa upp den i GameData som ligger i din KSP root mapp.
 
