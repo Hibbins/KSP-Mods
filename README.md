@@ -4,7 +4,7 @@ Alla mods som just nu används på servern hamnar här.
 
 <b>Instruktioner:<b>
 
-Tryck på "Download ZIP" till höger och packa upp filerna i mappen GameData som ligger i din KSP root mapp.
+Tryck på "Download ZIP" till höger och packa upp filerna i mappen KSP-Mods-master till din GameData mapp som ligger i din KSP root mapp.
 
 OBS! - Kör 32 bitars versionen av KSP för att vara säker på att alla mods kommer att funktionera.
 
