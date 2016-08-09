@@ -1,2 +1,0 @@
-Build 16 from branch master in RemoteTechnologiesGroup/RemoteTech
-Built from commit d4cb5c2a5bf6ea23982014099b65b50cef79d77e with tag build-master-15

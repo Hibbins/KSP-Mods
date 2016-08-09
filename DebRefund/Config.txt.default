@@ -1,6 +1,0 @@
-MinimumSpeedGreen = 6
-MinimumSpeedYellow = 10
-SafeRecoveryPercent = 90
-YellowMaxPercent = 90
-YellowMinPercent = 40
-UpdateCheck = false
