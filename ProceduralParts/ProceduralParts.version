@@ -1,0 +1,21 @@
+{
+   "URL" : "https://raw.githubusercontent.com/Swamp-Ig/ProceduralParts/master/ProceduralParts.version",
+   "GITHUB" : {
+      "REPOSITORY" : "ProceduralParts",
+      "USERNAME" : "Swamp-Ig"
+   },
+   "VERSION" : {
+      "MINOR" : 2,
+      "MAJOR" : 1,
+      "BUILD" : 0,
+      "PATCH" : 5
+   },
+   "NAME" : "Procedural Parts",
+   "DOWNLOAD" : "https://github.com/Swamp-Ig/ProceduralParts/releases",
+   "KSP_VERSION" : {
+      "PATCH" : 3,
+      "MINOR" : 1,
+      "MAJOR" : 1
+   }
+}
+
