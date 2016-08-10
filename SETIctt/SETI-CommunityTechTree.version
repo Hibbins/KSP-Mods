@@ -1,0 +1,18 @@
+{
+	"NAME":"SETI-CommunityTechTree",
+	"URL":"http://ksp-avc.cybutek.net/version.php?id=146",
+	"DOWNLOAD":"http://forum.kerbalspaceprogram.com/threads/106130",
+	"VERSION":
+	{
+		"MAJOR":0,
+		"MINOR":9,
+		"PATCH":6,
+		"BUILD":8
+	},
+	"KSP_VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":0,
+		"PATCH":5
+	}
+}
